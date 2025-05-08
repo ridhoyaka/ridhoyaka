@@ -39,7 +39,7 @@
 ## 🛠️ Cyber Security Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/burp-suite.png" title="Burp Suite" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/kalilinux.png" title="Metasploit" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/fa314a/metasploit.png" title="Metasploit" width="40" height="40"/>
 </p>
