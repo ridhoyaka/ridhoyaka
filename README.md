@@ -41,5 +41,5 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/burp-suite.png" title="Burp Suite" width="40" height="40"/>
-  <img src="https://img.icons8.com/windows/32/kalilinux.png" title="Metasploit / Kali" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" title="Metasploit" width="40" height="40"/>
 </p>
