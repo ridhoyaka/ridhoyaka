@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ridho Muhammad Wahid  
 
 - 🎓 Informatics Engineering student & tech enthusiast  
-- 🏫 Mahasiswa Universitas Duta Bangsa Surakarta  
+- 🏫 Student of Duta Bangsa University  
 - 💻 I love Linux, programming, and building cool stuff  
 - 📚 Currently learning: Web Dev, CTF, and Cyber Security  
 - 🛡️ CyberSec Enthusiast  
@@ -13,6 +13,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/ridho-muhammad-wahid](https://www.linkedin.com/in/ridho-muhammad-wahid-b50761344/))  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridhoyaka999@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ridhoyaka_)
+
+---
+
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridho-muhammad-wahid&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
