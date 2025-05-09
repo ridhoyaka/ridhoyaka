@@ -1,38 +1,37 @@
-## 👋 Hi, I'm Ridho Muhammad Wahid  
+## 👋 Hi, I'm Ridho Muhammad Wahid
 
-- 🎓 Informatics Engineering student & tech enthusiast  
-- 🏫 Student of Duta Bangsa University  
-- 💻 I love Linux, programming, and building cool stuff  
-- 📚 Currently learning: Web Dev, CTF, and Cyber Security  
-- 🛡️ CyberSec Enthusiast  
+* 🎓 Informatics Engineering student & tech enthusiast
+* 🏫 Student of Duta Bangsa University
+* 💻 I love Linux, programming, and building cool stuff
+* 📚 Currently learning: Web Dev, CTF, and Cyber Security
+* 🛡️ CyberSec Enthusiast
 
 ---
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/ridho-muhammad-wahid](https://www.linkedin.com/in/ridho-muhammad-wahid-b50761344/))  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridhoyaka999@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ridhoyaka_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)]([https://linkedin.com/in/ridho-muhammad-wahid]%28https://www.linkedin.com/in/ridho-muhammad-wahid-b50761344/%29)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:ridhoyaka999@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/ridhoyaka_)
 
 ---
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhoyaka&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridhoyaka\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs\&theme=radical)
 
 ---
 
 ## ⚙️ Tools & Languages
 
 <p>
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/fa314a/burp-suite.png" title="Burp Suite" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/fa314a/metasploit.png" title="Metasploit" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/00e676/nmap.png" title="Nmap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo-kali-linux.png" title="Kali Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/OWASP_logo.svg" title="OWASP ZAP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/John_the_Ripper_logo.png" title="John the Ripper" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hydra-logo.png" title="Hydra" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -43,4 +42,9 @@
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/burp-suite.png" title="Burp Suite" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/fa314a/metasploit.png" title="Metasploit" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/00e676/nmap.png" title="Nmap" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo-kali-linux.png" title="Kali Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/OWASP_logo.svg" title="OWASP ZAP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/John_the_Ripper_logo.png" title="John the Ripper" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Hydra-logo.png" title="Hydra" width="40" height="40"/>
 </p>
