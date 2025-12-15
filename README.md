@@ -2,9 +2,6 @@
 <br>
 <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img>
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridhoyaka&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Yaka's GitHub Trophies" />
-</p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoyaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
